@@ -28,16 +28,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/thiru/OneDrive/Documents/GitHub/coading1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thiru/OneDrive/Documents/GitHub/coading1&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.RecursionForFibonacciNumber">
+}</component>
+  <component name="RunManager" selected="Application.PermutationsofaGivenString">
     <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coadingprograms.FibonacciNumber" />
+      <module name="coading1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coadingprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestSumContiguousSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.LargestSumContiguousSubarray" />
+      <module name="coading1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coadingprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationsofaGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.PermutationsofaGivenString" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -62,9 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.SubString" />
+      <module name="coading1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coadingprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PermutationsofaGivenString" />
+        <item itemvalue="Application.LargestSumContiguousSubarray" />
         <item itemvalue="Application.RecursionForFibonacciNumber" />
+        <item itemvalue="Application.SubString" />
         <item itemvalue="Application.FibonacciNumber" />
       </list>
     </recent_temporary>
