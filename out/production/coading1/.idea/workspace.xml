@@ -35,9 +35,22 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/thiru/OneDrive/Documents/GitHub/coading1&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PermutationsofaGivenString">
-    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.FibonacciNumber" />
+  <component name="RunManager" selected="Application.FibanocciUsingRecursion">
+    <configuration name="AllCombinationsofaSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.AllCombinationsofaSet" />
+      <module name="coading1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coadingprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibanocciUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.FibanocciUsingRecursion" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -62,6 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NonRepeatingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.NonRepeatingChars" />
+      <module name="coading1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coadingprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PermutationsofaGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coadingprograms.PermutationsofaGivenString" />
       <module name="coading1" />
@@ -75,39 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionForFibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.RecursionForFibonacciNumber" />
-      <module name="coading1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coadingprograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.SubString" />
-      <module name="coading1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coadingprograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibanocciUsingRecursion" />
+        <item itemvalue="Application.NonRepeatingChars" />
         <item itemvalue="Application.PermutationsofaGivenString" />
+        <item itemvalue="Application.AllCombinationsofaSet" />
         <item itemvalue="Application.LargestSumContiguousSubarray" />
-        <item itemvalue="Application.RecursionForFibonacciNumber" />
-        <item itemvalue="Application.SubString" />
-        <item itemvalue="Application.FibonacciNumber" />
       </list>
     </recent_temporary>
   </component>
