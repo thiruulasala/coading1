@@ -35,9 +35,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/thiru/OneDrive/Documents/GitHub/coading1&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibanocciUsingRecursion">
-    <configuration name="AllCombinationsofaSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.AllCombinationsofaSet" />
+  <component name="RunManager" selected="Application.ArrayRotaion">
+    <configuration name="ArrayRotaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.ArrayRotaion" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibanocciUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.FibanocciUsingRecursion" />
+    <configuration name="FindCOmmonElementsInArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.FindCOmmonElementsInArrays" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestSumContiguousSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.LargestSumContiguousSubarray" />
+    <configuration name="StringIsRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.StringIsRotation" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonRepeatingChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.NonRepeatingChars" />
+    <configuration name="StringJoiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.StringJoiner" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsofaGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.PermutationsofaGivenString" />
+    <configuration name="UnionOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.UnionOfTwoArrays" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FibanocciUsingRecursion" />
-        <item itemvalue="Application.NonRepeatingChars" />
-        <item itemvalue="Application.PermutationsofaGivenString" />
-        <item itemvalue="Application.AllCombinationsofaSet" />
-        <item itemvalue="Application.LargestSumContiguousSubarray" />
+        <item itemvalue="Application.ArrayRotaion" />
+        <item itemvalue="Application.UnionOfTwoArrays" />
+        <item itemvalue="Application.FindCOmmonElementsInArrays" />
+        <item itemvalue="Application.StringJoiner" />
+        <item itemvalue="Application.StringIsRotation" />
       </list>
     </recent_temporary>
   </component>
