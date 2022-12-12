@@ -35,20 +35,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/thiru/OneDrive/Documents/GitHub/coading1&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DividedStringEqualParts">
-    <configuration name="ArrayRotaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.ArrayRotaion" />
-      <module name="coading1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coadingprograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RemoveDuplicateElements">
     <configuration name="DividedStringEqualParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coadingprograms.DividedStringEqualParts" />
       <module name="coading1" />
@@ -75,6 +62,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OccurrenceOfCharInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.OccurrenceOfCharInArray" />
+      <module name="coading1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coadingprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.RemoveDuplicateElements" />
+      <module name="coading1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coadingprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coadingprograms.RotationArray" />
       <module name="coading1" />
@@ -88,26 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.UnionOfTwoArrays" />
-      <module name="coading1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coadingprograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicateElements" />
+        <item itemvalue="Application.OccurrenceOfCharInArray" />
         <item itemvalue="Application.DividedStringEqualParts" />
         <item itemvalue="Application.InArrayEvenAndOddNumbers" />
         <item itemvalue="Application.RotationArray" />
-        <item itemvalue="Application.ArrayRotaion" />
-        <item itemvalue="Application.UnionOfTwoArrays" />
       </list>
     </recent_temporary>
   </component>

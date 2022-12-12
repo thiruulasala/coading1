@@ -35,7 +35,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/thiru/OneDrive/Documents/GitHub/coading1&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayRotaion">
+  <component name="RunManager" selected="Application.OccurrenceOfCharInArray">
     <configuration name="ArrayRotaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coadingprograms.ArrayRotaion" />
       <module name="coading1" />
@@ -49,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindCOmmonElementsInArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.FindCOmmonElementsInArrays" />
+    <configuration name="DividedStringEqualParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.DividedStringEqualParts" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringIsRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.StringIsRotation" />
+    <configuration name="InArrayEvenAndOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.InArrayEvenAndOddNumbers" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringJoiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.StringJoiner" />
+    <configuration name="OccurrenceOfCharInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.OccurrenceOfCharInArray" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coadingprograms.UnionOfTwoArrays" />
+    <configuration name="RotationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coadingprograms.RotationArray" />
       <module name="coading1" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OccurrenceOfCharInArray" />
+        <item itemvalue="Application.DividedStringEqualParts" />
+        <item itemvalue="Application.InArrayEvenAndOddNumbers" />
+        <item itemvalue="Application.RotationArray" />
         <item itemvalue="Application.ArrayRotaion" />
-        <item itemvalue="Application.UnionOfTwoArrays" />
-        <item itemvalue="Application.FindCOmmonElementsInArrays" />
-        <item itemvalue="Application.StringJoiner" />
-        <item itemvalue="Application.StringIsRotation" />
       </list>
     </recent_temporary>
   </component>
